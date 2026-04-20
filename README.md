@@ -1,28 +1,28 @@
 <div align="center">
-  <img src="ImagensProjetos/utah/p1/p1_1.png" style="max-height: 150px!important;">
-  <img src="ImagensProjetos/utah/p1/p1_2.png" style="max-height: 150px!important;">
+  <img src="ImagensProjetos/utah/p1/p1_1.png" height="150">
+  <img src="ImagensProjetos/utah/p1/p1_2.png" height="150">
   <br><br>
-  <img src="ImagensProjetos/utah/p1/p1_3.png" style="max-height: 150px!important;">
+  <img src="ImagensProjetos/utah/p1/p1_3.png" height="150">
   <p><em>Projeto 0 (UTAH): Composição de Imagens. Resultados da adição e sobreposição de múltiplas imagens utilizando diferentes níveis de transparência (<i>alpha blending</i>).</em></p>
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="ImagensProjetos/mit/p0/mp0_1.png" style="max-height: 200px!important;">
-  <img src="ImagensProjetos/mit/p0/mp0_2.png" style="max-height: 200px!important;">
+  <img src="ImagensProjetos/mit/p0/mp0_1.png" height="200">
+  <img src="ImagensProjetos/mit/p0/mp0_2.png" height="200">
   <br><br>
-  <img src="ImagensProjetos/mit/p0/mp0_3.png" style="max-height: 200px!important;">
-  <img src="ImagensProjetos/mit/p0/mp0_4.png" style="max-height: 200px!important;">
+  <img src="ImagensProjetos/mit/p0/mp0_3.png" height="200">
+  <img src="ImagensProjetos/mit/p0/mp0_4.png" height="200">
   <p><em>Projeto 0 (MIT): Renderizador Base. Testes de carregamento de malhas geométricas 3D, simulação de iluminação móvel e manipulação de atributos de cor.</em></p>
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="ImagensProjetos/mit/p1/mp1_2.png" style="max-height: 250px!important;">
-  <img src="ImagensProjetos/mit/p1/mp1_3.png" style="max-height: 250px!important;">
-  <img src="ImagensProjetos/mit/p1/mp1_4.png" style="max-height: 250px!important;">
+  <img src="ImagensProjetos/mit/p1/mp1_2.png" height="250">
+  <img src="ImagensProjetos/mit/p1/mp1_3.png" height="250">
+  <img src="ImagensProjetos/mit/p1/mp1_4.png" height="250">
   <p><em>Projeto 1 (MIT): Superfície de Revolução. Etapas da geração de um modelo 3D, partindo da definição dos pontos de controle à malha resultante.</em></p>
 </div>
 
@@ -39,21 +39,21 @@
 <hr>
 
 <div align="center">
-  <img src="ImagensProjetos/mit/p2/MIT2_0.png" style="max-height: 200px!important;">
-  <img src="ImagensProjetos/mit/p2/MIT2_1.png" style="max-height: 200px!important;">
+  <img src="ImagensProjetos/mit/p2/MIT2_0.png" height="200">
+  <img src="ImagensProjetos/mit/p2/MIT2_1.png" height="200">
   <br><br>
-  <img src="ImagensProjetos/mit/p2/MIT2_2.png" style="max-height: 250px!important;">
-  <img src="ImagensProjetos/mit/p2/MIT2_3.png" style="max-height: 250px!important;">
+  <img src="ImagensProjetos/mit/p2/MIT2_2.png" height="250">
+  <img src="ImagensProjetos/mit/p2/MIT2_3.png" height="250">
   <p><em>Projeto 2 (MIT): Modelagem Hierárquica e SSD. Interface de manipulação, malha base e a deformação do modelo 3D aplicando <i>Skeletal Subspace Deformation</i>.</em></p>
 </div>
+
 <hr>
+
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/cmu00.png" width="48%">
   <img src="ImagensProjetos/CMU/p0/cmu01.png" width="48%">
   <p><em>Projeto 0 (CMU): Renderização em <i>Hardware</i>. Exemplos de processamento acelerado de primitivas gráficas (linhas e triângulos) utilizando OpenGL legado.</em></p>
 </div>
-
-
 
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/cmu03.png" width="48%">
@@ -61,15 +61,11 @@
   <p><em>Projeto 0 (CMU): <i>CPU Rendering</i>. Rasterização via <i>software</i>: à esquerda, o algoritmo de linhas com diferentes inclinações (<i>slopes</i>); à direita, triângulos preenchidos via coordenadas baricêntricas.</em></p>
 </div>
 
-
-
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/cmu05.png" width="48%">
   <img src="ImagensProjetos/CMU/p0/cmu06.png" width="48%">
   <p><em>Projeto 0 (CMU): Aplicação de <i>Supersampling</i>. Comparativo evidenciando a atenuação do serrilhado (<i>aliasing</i>) com a técnica desativada (esquerda) e ativada (direita).</em></p>
 </div>
-
-
 
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/cmup1_00.png" width="48%">
@@ -79,15 +75,11 @@
   <p><em>Projeto 0 (CMU): Transformações Hierárquicas e <i>Viewing</i>. Acima, a cena sem e com a aplicação correta da hierarquia. Abaixo, a cena final com translação e escala (<i>zoom</i>).</em></p>
 </div>
 
-
-
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/n00.png" width="48%">
   <img src="ImagensProjetos/CMU/p0/b00.png" width="48%">
   <p><em>Projeto 0 (CMU): Escalonamento de Textura. Comparativo visual da amostragem utilizando o filtro <i>Nearest Neighbor</i> (esquerda) e o filtro Bilinear (direita).</em></p>
 </div>
-
-
 
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/n.png" width="48%">
@@ -98,13 +90,12 @@
   <p><em>Projeto 0 (CMU): Comparativo de Filtragem de Texturas. Evolução progressiva da atenuação de <i>aliasing</i>: <i>Nearest Neighbor</i>, Bilinear sem <i>Mipmaps</i>, Bilinear com <i>Mipmaps</i> e, por fim, Trilinear.</em></p>
 </div>
 
-
-
 <div align="center">
   <img src="ImagensProjetos/CMU/p0/noAlpha.png" width="48%">
   <img src="ImagensProjetos/CMU/p0/alpha.png" width="48%">
   <p><em>Projeto 0 (CMU): <i>Alpha Blending</i>. Resultados da renderização comparando a ausência de composição de transparência (esquerda) e a aplicação do <i>alpha</i> pré-multiplicado (direita).</em></p>
 </div>
+
 <hr>
 
 <div align="center">
@@ -159,11 +150,11 @@
 <hr>
 
 <div align="center">
-  <img src="ImagensProjetos/utah/p4/01.png" style="max-height: 190px!important;">
-  <img src="ImagensProjetos/utah/p4/02.png" style="max-height: 200px!important;">
+  <img src="ImagensProjetos/utah/p4/01.png" height="190">
+  <img src="ImagensProjetos/utah/p4/02.png" height="200">
   <br><br>
-  <img src="ImagensProjetos/utah/p4/03.png" style="max-height: 250px!important;">
-  <img src="ImagensProjetos/utah/p4/04.png" style="max-height: 250px!important;">
+  <img src="ImagensProjetos/utah/p4/03.png" height="250">
+  <img src="ImagensProjetos/utah/p4/04.png" height="250">
   <p><em>Projeto 3 (UTAH): Renderização de Malhas. Progressão do modelo clássico do <i>teapot</i> a personagens complexos com mapeamento de textura completo em <i>WebGL</i>.</em></p>
 </div>
 
@@ -173,8 +164,8 @@
   <img src="ImagensProjetos/utah/p5/01.png" width="48%">
   <img src="ImagensProjetos/utah/p5/02.png" width="48%">
   <br><br>
-  <img src="ImagensProjetos/utah/p5/03.png" style="max-height: 400px!important;">
-  <img src="ImagensProjetos/utah/p5/04.png" style="max-height: 400px!important;">
+  <img src="ImagensProjetos/utah/p5/03.png" height="400">
+  <img src="ImagensProjetos/utah/p5/04.png" height="400">
   <p><em>Projeto 4 (UTAH): Modelo Blinn-Phong. Renderização com cálculo de iluminação no espaço da câmera, evidenciando as reflexões especulares em diferentes ângulos.</em></p>
 </div>
 
