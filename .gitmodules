@@ -1,0 +1,12 @@
+[submodule "DrawSVG"]
+	path = DrawSVG
+	url = https://github.com/Arthur020104/DrawSVG.git
+[submodule "UtahCs4600"]
+	path = UtahCs4600
+	url = https://github.com/Arthur020104/UtahCs4600.git
+[submodule "UbcCG"]
+	path = UbcCG
+	url = https://github.com/Arthur020104/UbcCG.git
+[submodule "MIT6.837"]
+	path = MIT6.837
+	url = https://github.com/Arthur020104/MIT6.837.git
